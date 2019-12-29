@@ -164,23 +164,3 @@ int main()
     racun1.dodaj_artikal(1231, 1.5);
     cout<<racun1<<endl;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
